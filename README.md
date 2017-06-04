@@ -1,6 +1,13 @@
 # Serverless-Stack
 Create a note taking app from scratch using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
 
+APIGateWay URL is [this](https://51wvrjaqj6.execute-api.eu-west-1.amazonaws.com/prod)
+
+Getting Started
+-------------
+
+Follow [this tutorial](http://serverless-stack.com/)
+
 User Cases
 --------
    - Should allow users to signup and login to their accounts
@@ -24,13 +31,6 @@ Features
    - React.js for our single page app
    - React Router for routing
    - Bootstrap for the UI Kit
-
-
-
-Getting Started
--------------
-
-Follow [this tutorial](http://serverless-stack.com/)
 
 
 ### Rating :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon:
