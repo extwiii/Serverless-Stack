@@ -1,6 +1,9 @@
 # Serverless-Stack
 Create a note taking app from scratch using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
 
+Live S3 Demo: [Serverless S3](http://extwiii-notapp-client.s3-website-eu-west-1.amazonaws.com/)
+Live cloudfront Demo: [Serverless CloudFront](http://d19jxd9x4sa72g.cloudfront.net/)
+
 APIGateWay URL is [this](https://51wvrjaqj6.execute-api.eu-west-1.amazonaws.com/prod)
 
 Getting Started
